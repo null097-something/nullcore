@@ -6,5 +6,5 @@
  - credits
 4. nc
  - enter nullcore multitool
-5. nc -u 
- - update nc
+5. nc-update 
+ - update nc (beta)
