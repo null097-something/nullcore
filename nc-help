@@ -1,0 +1,10 @@
+1. refresh-USB
+ - refreshes USBGuard to trust only the devices currently plugged in.
+2. nc-help
+ - displays this menu
+3. c
+ - credits
+4. nc
+ - enter nullcore multitool
+5. nc -u 
+ - update nc
