@@ -1,2 +1,2 @@
-echo "NULLCORE (c) $( date +%Y)\n$(curl -fsSL https://raw.githubusercontent.com/null097-something/nullcore/refs/heads/main/nc-c-cli | awk 'NR==2')"
+echo "NULLCORE (c) $( date +%Y)\n $(curl -fsSL https://raw.githubusercontent.com/null097-something/nullcore/refs/heads/main/nc-c-cli | awk 'NR==2')"
 "if it has a terminal, it has a purpose"
