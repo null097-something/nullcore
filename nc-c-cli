@@ -1,0 +1,2 @@
+echo "NULLCORE (c) $( date +%Y)\n$()"
+# " if it has a terminal, it has a purpose"
